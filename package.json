@@ -1,0 +1,16 @@
+{
+  "name": "my-ts",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.ts",
+  "author": "pei-hsin",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.12",
+    "typescript": "^5.4.5"
+  }
+}
